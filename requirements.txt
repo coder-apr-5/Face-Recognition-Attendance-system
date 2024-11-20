@@ -11,7 +11,7 @@ imageio==2.9.0
 imageio-ffmpeg==0.4.2
 moviepy==1.0.3
 numpy==1.18.4
-opencv-python==4.4.0.46
+opencv-python==4.8.1.78
 Pillow==8.0.1
 proglog==0.1.9
 requests==2.24.0
