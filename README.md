@@ -5,6 +5,3 @@
 
 ![face 2](https://github.com/theshivamsk/Face-Recognition-Attendance-system/assets/165746109/1fc0dac8-9ca7-449c-b705-20b6dd113249)
 
-Connect us for any college projects
-
-DM for any error or queries - https://www.instagram.com/techoverflows
